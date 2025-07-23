@@ -19,5 +19,5 @@ print(f"Humidity: {main_data['humidity']}%")
 print(f"Pressure: {main_data['pressure']} hPa")
 else:
 print(f"Error: {data['message']}")
-print('123')
+
 
